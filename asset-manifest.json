@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rock2/static/css/main.1182b8c4.css",
+    "main.js": "/rock2/static/js/main.e6ad348e.js",
+    "static/js/453.a5a72b74.chunk.js": "/rock2/static/js/453.a5a72b74.chunk.js",
+    "index.html": "/rock2/index.html",
+    "main.1182b8c4.css.map": "/rock2/static/css/main.1182b8c4.css.map",
+    "main.e6ad348e.js.map": "/rock2/static/js/main.e6ad348e.js.map",
+    "453.a5a72b74.chunk.js.map": "/rock2/static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1182b8c4.css",
+    "static/js/main.e6ad348e.js"
+  ]
+}
